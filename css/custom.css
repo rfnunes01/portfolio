@@ -1,0 +1,161 @@
+/*Metro Background color class*/
+.bg_lb{ background:#27a9e3;}
+.bg_db{ background:#2295c9;}
+.bg_lg{ background:#28b779;}
+.bg_dg{ background:#28b779;}
+.bg_ly{ background:#ffb848;}
+.bg_dy{ background:#da9628;}
+.bg_ls{ background:#2255a4;}
+.bg_lo{ background:#da542e;}
+.bg_lr{ background:#f74d4d;}
+.bg_lv{ background:#603bbc;}
+.bg_lh{ background:#b6b3b3;}
+.bg_lhc{ background:#F9F9F9;}
+
+.bg-azul{
+    background:#28b779 !important
+}
+
+.txt-danger{ color:#f74d4d;}
+
+.color_gray_ultra_dark {
+    color: #2d2d2d;
+    fill: #2d2d2d;
+    stroke: #2d2d2d
+}
+
+.w3-display-middle{
+	position:absolute;
+	top:50%;
+	left:50%;
+	transform:translate(-50%,-50%);-ms-transform:translate(-50%,-50%)
+}
+
+.w3-center{
+	text-align:center!important
+}
+
+/* FONT BOLDER */
+.ftb {
+	font-weight: bolder
+}
+/* FONT ITALIC */
+.fti {
+	font-style: italic
+}
+
+/* CLASSES FONT-SIZES */
+.fts-1{
+	font-size: 1px;
+}
+.fts-2{
+	font-size: 2px;
+}
+.fts-3{
+	font-size: 3px;
+}
+.fts-4{
+	font-size: 4px;
+}
+.fts-5{
+	font-size: 5px;
+}
+.fts-6{
+	font-size: 6px;
+}
+.fts-7{
+	font-size: 7px;
+}
+.fts-8{
+	font-size: 8px;
+}
+.fts-9{
+	font-size: 9px;
+}
+.fts-10{
+	font-size: 10px;
+}
+.fts-11{
+	font-size: 11px;
+}
+.fts-12{
+	font-size: 12px;
+}
+.fts-13{
+	font-size: 13px;
+}
+.fts-14{
+	font-size: 14px;
+}
+.fts-15{
+	font-size: 15px;
+}
+.fts-16{
+	font-size: 16px;
+}
+.fts-17{
+	font-size: 17px;
+}
+.fts-18{
+	font-size: 18px;
+}
+.fts-19{
+	font-size: 19px;
+}
+.fts-20{
+	font-size: 20px;
+}.fts-21{
+	font-size: 21px;
+}.fts-22{
+	font-size: 22px;
+}.fts-23{
+	font-size: 23px;
+}.fts-24{
+	font-size: 24px;
+}.fts-25{
+	font-size: 25px;
+}.fts-26{
+	font-size: 26px;
+}.fts-27{
+	font-size: 27px;
+}.fts-28{
+	font-size: 28px;
+}.fts-29{
+	font-size: 29px;
+}.fts-30{
+	font-size: 30px;
+}.fts-31{
+	font-size: 31px;
+}.fts-32{
+	font-size: 32px;
+}.fts-33{
+	font-size: 33px;
+}.fts-34{
+	font-size: 34px;
+}.fts-35{
+	font-size: 35px;
+}.fts-36{
+	font-size: 36px;
+}.fts-37{
+	font-size: 37px;
+}.fts-38{
+	font-size: 38px;
+}.fts-39{
+	font-size: 39px;
+}.fts-40{
+	font-size: 40px;
+}.fts-41{
+	font-size: 41px;
+}.fts-42{
+	font-size: 42px;
+}.fts-43{
+	font-size: 43px;
+}.fts-44{
+	font-size: 44px;
+}
+.fts-70{
+	font-size: 70px;
+}
+.fts-100{
+	font-size: 100px;
+}
